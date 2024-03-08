@@ -15,3 +15,5 @@ For project records including the project proposal, the project final presentati
 For GIS maps of the aforementioned locations, please refer to the "Maps" folder of the repository. Please also note that information mapped from location to location may vary.
 
 *Members of Group Four include: Benjamin Tarver, Shining Zhang, Alex Sieh, Gensheng Lin, and Ashley Garcia.
+
+(Please note that technical difficulties sometimes prevent text files such as PDFs from being displayed via GitHub in the browser, and therefore these files will only be viewable upon download.)
